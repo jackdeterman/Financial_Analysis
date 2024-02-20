@@ -25,4 +25,7 @@ This analysis flags and provides information on potentially misreported financia
 
 Additionally, the public code provides a simple report on the users with outstanding charges:
 
+<img src="simple_report.png" width="500">
 
+In future versions of the report, data visualizations will be generated to compare `location` as well as to summarize the data extracted
+from this foundational EDA.
