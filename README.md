@@ -19,4 +19,4 @@ centered around detecting potential delinquent credit card charges or refunds.
 
 This analysis flags and provides information on potentially misreported financial data, including outstanding charges, erroneous refunds, and unexplained jumps in the timing of charges and refunds. This generates a DataFrame such as
 
-<img src="raw_financial_df.png" width="500">
+<img src="data_extracted_df.png" width="500">
