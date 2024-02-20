@@ -17,6 +17,12 @@ centered around detecting potential delinquent credit card charges or refunds.
 
 <br>
 
-This analysis flags and provides information on potentially misreported financial data, including outstanding charges, erroneous refunds, and unexplained jumps in the timing of charges and refunds. This generates a DataFrame such as
+This analysis flags and provides information on potentially misreported financial data, including outstanding charges, erroneous refunds, and unexplained jumps in the timing of charges and refunds. This generates a DataFrame such as the one below:
 
 <img src="data_extracted_df.png" width="500">
+
+<br>
+
+Additionally, the public code provides a simple report on the users with outstanding charges:
+
+
