@@ -1,6 +1,6 @@
 # Financial Analysis Repo
 
-### Public portions of analysis of real, anonymized financial data.
+### The public portions of analysis of real, anonymized financial data.
 ##### Goal: Automatically generate a report for the company to review before moving forward with their quarterly report.
 <br>
 
