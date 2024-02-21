@@ -1,7 +1,7 @@
 # Financial Analysis Repo
 
 ### The public portions of analysis of real, anonymized financial data.
-##### Goal: Automatically generate an analysis for the company to review before moving forward with their quarterly report.
+##### Goal: Automatically generate an analysis for the company to review before moving forward with its quarterly report.
 <br>
 
 Data is loaded from `csv` in the following format:
